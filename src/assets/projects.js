@@ -5,6 +5,11 @@ const projects=[
       "link": "https://github.com/MythicalMAxX/StudyTime-Scheduler"
     },
     {
+      "title": "Fi-bot",
+      "description": "An AI-powered financial advisor chatbot providing personalized investment, budgeting, and savings guidance 24/7.",
+      "link": "https://fibot.netlify.app"
+    },
+    {
       "title": "AnalyzAI",
       "description": "AI chatbot analyzes website data, interprets queries, and provides insights.",
       "link": "https://github.com/MythicalMAxX/codespacesflask"
