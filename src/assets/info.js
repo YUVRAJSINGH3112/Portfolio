@@ -14,6 +14,7 @@ const infos = [{
       { "name": "Web Scraping", "description": "Extracting data from websites" },
       { "name": "Automation", "description": "Making tasks easier with AI and scripts" },
       { "name": "Git & GitHub", "description": "Version control and collaboration" },
+      { "name": "SQL", "description": "Version control and collaboration" },
       { "name": "OAuth Authentication", "description": "Secure login system" },
       { "name": "JAVA", "description": "Version control and collaboration" },
       { "name": "Pyhton", "description": "Secure login system" }
